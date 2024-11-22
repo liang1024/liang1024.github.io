@@ -1,0 +1,4 @@
+[submodule "themes/next"]
+    path = themes/next
+    url = https://github.com/liang1024/liang1024.github.io/tree/main/themes
+    branch = main
