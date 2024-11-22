@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: jiuliang
-language: zh-Hans
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://liang1024.github.io/
+url: https://liang1024.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  
-repo: https://github.com/liang1024/liang1024.github.io.git
+  repo: https://github.com/liang1024/liang1024.github.io.git
+#  repo: git@github.com:liang1024/liang1024.github.io.git
+  branch: master
