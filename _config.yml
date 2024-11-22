@@ -103,3 +103,4 @@ theme: next
 deploy:
   type: git
   
+repo: https://github.com/liang1024/liang1024.github.io.git
