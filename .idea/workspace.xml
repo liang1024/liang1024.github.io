@@ -1,19 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3ab3430-57c0-4522-b7c3-20fb6cd63e53" name="Changes" comment="init hexo next">
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2024/11/22/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2024/11/22/hello-world/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2024/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery-3.6.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" />
+    <list default="true" id="c3ab3430-57c0-4522-b7c3-20fb6cd63e53" name="Changes" comment="init hexo next2">
+      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/apple-touch-icon-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon-16x16-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon-32x32-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-algolia-nebula-blue-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bookmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/comments-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/motion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/next-boot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/pjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/addtoany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/analytics/baidu-analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/analytics/google-analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/analytics/growingio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/analytics/matomo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/chat/chatra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/chat/tidio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/changyan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/disqus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/disqusjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/gitalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/isso.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/livere.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/comments/utterances.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/math/katex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/math/mathjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/pace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/quicklink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/search/algolia-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/search/local-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/statistics/firestore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/statistics/lean-analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/tags/mermaid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/tags/pdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/third-party/tags/wavedrom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +57,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2pC6nUxMWs3It25TsB3djpcnsip" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732257877738</updated>
-      <workItem from="1732257879169" duration="2282000" />
+      <workItem from="1732257879169" duration="2725000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1732257921586</created>
@@ -72,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732260862356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init hexo next2">
+      <created>1732261419985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732261419985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +135,7 @@
     <MESSAGE value="init2" />
     <MESSAGE value="init hexo" />
     <MESSAGE value="init hexo next" />
-    <option name="LAST_COMMIT_MESSAGE" value="init hexo next" />
+    <MESSAGE value="init hexo next2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init hexo next2" />
   </component>
 </project>
