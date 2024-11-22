@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3ab3430-57c0-4522-b7c3-20fb6cd63e53" name="Changes" comment="init hexo">
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="c3ab3430-57c0-4522-b7c3-20fb6cd63e53" name="Changes" comment="init hexo next">
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2024/11/22/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2024/11/22/hello-world/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2024/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery-3.6.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732257877738</updated>
-      <workItem from="1732257879169" duration="1699000" />
+      <workItem from="1732257879169" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1732257921586</created>
@@ -56,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732260052458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init hexo next">
+      <created>1732260862356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732260862356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +93,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="init2" />
     <MESSAGE value="init hexo" />
-    <option name="LAST_COMMIT_MESSAGE" value="init hexo" />
+    <MESSAGE value="init hexo next" />
+    <option name="LAST_COMMIT_MESSAGE" value="init hexo next" />
   </component>
 </project>
